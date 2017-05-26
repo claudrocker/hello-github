@@ -15,3 +15,7 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+
+.anim-bg{
+  background:url(../img/bg.jpg);
+}
